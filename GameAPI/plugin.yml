@@ -1,0 +1,5 @@
+name: GameAPI
+version: 0.1
+author: Tempoo50
+main: de.tempoo50.gameapi.main.GameAPI
+depend: [WorldEdit]
